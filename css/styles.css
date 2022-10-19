@@ -1,0 +1,22 @@
+*{
+	border-style: ;
+}
+.menuitems{
+	list-style: none;
+	padding: 0;
+	text-align: center;
+
+}
+.menuitem{
+	display: inline-block;
+	border-radius: 2px;
+	border: 2px solid cadetblue;
+	padding: 15px;
+	margin:10px ;
+	width: 100px;
+	background-color: bisque;
+}
+a{
+	color: #000;
+	text-decoration: none;
+}
